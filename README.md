@@ -5,7 +5,7 @@ Bookly is a modern Flutter application for discovering, searching, and reviewing
 ## 🎥 App Demo
 
 Watch the app in action:  
-[▶️ app_video/app_video.mp4](app_video/app_video.mp4)
+[▶️ app_video/app_video.mp4](https://github.com/Ahmed-Elmekawy/Bookly_App/raw/refs/heads/master/app_video/app_video.mp4)
 
 ---
 
